@@ -37,7 +37,7 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark" />
 
 
 [website]: https://folk.ntnu.no/magnueb/personal
