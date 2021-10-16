@@ -35,15 +35,16 @@
 
 ---
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 ### :zap: GitHub Stats
 
-<img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
-<img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+<img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
 
 
 
 
 [website]: https://folk.ntnu.no/magnueb/personal
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
+<!-- [twitter]: https://twitter.com/ -->
 [youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
 [instagram]: https://instagram.com/byrkjiz
