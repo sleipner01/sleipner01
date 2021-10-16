@@ -38,8 +38,8 @@
 ### :zap: GitHub Stats
 
 <img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/sleipner01/github-readme-stats)
 
 
 
