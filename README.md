@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @sleipner01
+## 👋 Hi, I’m Magnus Byrkjeland - (@sleipner01)
 
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning a lot
