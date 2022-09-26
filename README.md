@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m Magnus Byrkjeland - (@sleipner01)
 
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on absolutely anything
 - 📫 Reach me at : magnus.e.b@hotmail.com
 
 ### Connect with me:
