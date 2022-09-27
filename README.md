@@ -2,14 +2,6 @@
 
 - 📫 Reach me at : magnus.e.b@hotmail.com
 
-### Connect with me:
-
-[<img align="left" alt="[website]" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="[website]" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gitlab.svg" />][gitlab]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Magnus Byrkjeland | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Magnus Byrkjeland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -37,11 +29,25 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### :chart_with_upwards_trend: GitHub Stats | By <a href="https://github.com/anuraghazra/github-readme-stats">(anuraghazra)</a>
 
-<img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
-<img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
-<!-- THEME: &show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e -->
+<div display="block">
+  <img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+  <img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
+  <!-- THEME: &show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e -->
+</div>
 
+<br />
+<br />
 
+---
+
+## Connect with me:
+
+[![website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)][gitlab]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
+<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
 
 
 [website]: https://folk.ntnu.no/magnueb/
@@ -49,3 +55,4 @@
 [twitter]: https://twitter.com/byrkjiz
 [youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
 [instagram]: https://instagram.com/byrkjiz
+[linkedin]: https://www.linkedin.com/in/magnusbyrkjeland/
