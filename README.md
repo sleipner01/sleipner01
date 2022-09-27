@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Magnus Byrkjeland - (@sleipner01)
+I’m Magnus Byrkjeland - (@sleipner01)
 
 - 📫 Reach me at : magnus.e.b@hotmail.com
 
@@ -43,7 +43,7 @@
 
 
 
-[website]: https://folk.ntnu.no/magnueb/personal
+[website]: https://folk.ntnu.no/magnueb/
 <!-- [twitter]: https://twitter.com/ -->
 [youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
 [instagram]: https://instagram.com/byrkjiz
