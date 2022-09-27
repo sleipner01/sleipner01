@@ -2,7 +2,15 @@
 
 :mortar_board: I am a student at the Norwegian University of Science and Technology. I'm studying Bachelor of Science in informatics.
 
+:bowtie: I started coding in the second year of high school. We started out with HTML, CSS, PHP and MySQL. I quickly got the hang of it and started some smaller projects on my own. The following year we started learning Javascript. However, some friends and I decided to drop the course and take the exam privately. I eventually became the leader for the "in house revue" at the school, which gave me the opportunity to maintain and create the website for the revue. That was the first inished project I got to publish on the world wide web.
 
+:video_game: I have loved video games since I was 6 years old. My first game was Pokémon Fire Red on Nintendo Game Boy. Minecraft became my childhood. I moved on to FPS games like Counter Strike and Battlefield. Believe it or not, now I'm mostly playing Microsoft Flight Simulator...
+
+:partly_sunny: Nothing's like some fresh air. I love to :runner:, :skier:, :climbing:... be active!
+
+:hammer_and_wrench: Some people find me quite handy. I like taking care of my stuff. Wether it's the wooden boat, my car, the summer house, but most importantly my setup!
+
+:airplane: I love travelling the world, experiencing new foods, cultures and meeting people with rich stories to tell.
 
 <br />
 
