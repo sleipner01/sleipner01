@@ -1,4 +1,6 @@
-# I’m Magnus Byrkjeland
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:EEFF00,100:a82da8&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36" />
+</p>
 
 :mortar_board: I am a student at the Norwegian University of Science and Technology. I'm studying Bachelor of Science in informatics.
 
