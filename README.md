@@ -84,10 +84,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+      <img align="left" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&layout=compact&langs_count=8&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
+      <img align="right" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&layout=compact&langs_count=8&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
   </a>
  </div>
 
