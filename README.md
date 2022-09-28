@@ -55,12 +55,14 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
+![chocolatey](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
 
 :computer:
-![apple-m2](https://img.shields.io/badge/Apple-M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
+![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![macos](https://img.shields.io/badge/Monterey-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
+![homebrew](https://img.shields.io/badge/WH1000XM4-000000?style=for-the-badge&logo=Sony&logoColor=white)
 
 
 
@@ -93,6 +95,10 @@
   <img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
 </p>
 <br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=footer" />
+</p>
 
 
 [website]: https://folk.ntnu.no/magnueb/
