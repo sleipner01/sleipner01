@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=bababa" />
 </p>
 
-:mortar_board: I am a student at the Norwegian University of Science and Technology. I'm studying Bachelor of Science in informatics.
+:mortar_board: Currently, I'm studying Bachelor of Science in informatics at the Norwegian University of Science and Technology. 
 
-:bowtie: I started coding in the second year of high school. We started out with HTML, CSS, PHP and MySQL. I quickly got the hang of it and started some smaller projects on my own. The following year we started learning Javascript. However, some friends and I decided to drop the course and take the exam privately. I eventually became the leader for the "in house revue" at the school, which gave me the opportunity to maintain and create the website for the revue. That was the first inished project I got to publish on the world wide web.
+:nerd_face: I started coding in the second year of high school. We started out with HTML, CSS, PHP and MySQL. I quickly got the hang of it and started some smaller projects on my own. The following year we started learning Javascript. However, some friends and I decided to drop the course and take the exam privately. I eventually became the leader for the "in house revue" at the school, which gave me the opportunity to maintain and create the website for the revue. That was the first inished project I got to publish on the world wide web.
 
-:video_game: I have loved video games since I was 6 years old. My first game was Pokémon Fire Red on Nintendo Game Boy. Minecraft became my childhood. I moved on to FPS games like Counter Strike and Battlefield. Believe it or not, now I'm mostly playing Microsoft Flight Simulator...
+:video_game: I have loved video games since I was 6 years old. My first game was Pokémon Fire Red on Nintendo Game Boy. Minecraft became my childhood. I moved on to FPS games like Counter Strike and Battlefield. Believe it or not, now I'm mostly playing Microsoft Flight Simulator... :small_airplane:
 
 :partly_sunny: Nothing's like some fresh air. I love to :runner:, :skier:, :climbing:... be active!
 
@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=slice&color=0:0877cc,40:eb34e8,100:fe428e&height=80&section=footer&text=That%20was%20about%20me&fontSize=24&fontColor=545454&rotate=4&fontAlignY=-10" />
+  <img src="https://capsule-render.vercel.app/api?&type=slice&color=0:0877cc,40:eb34e8,100:fe428e&height=80&section=footer&text=That%20was%20pretty%20much%20all%20about%20me&fontSize=20&fontColor=545454&rotate=5&fontAlignY=-10" />
 </p>
 
 
@@ -56,20 +56,46 @@
 ![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
 ![chocolatey](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
 
 :computer:
 ![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![macos](https://img.shields.io/badge/Monterey-000000?style=for-the-badge&logo=macOS&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
 ![homebrew](https://img.shields.io/badge/WH1000XM4-000000?style=for-the-badge&logo=Sony&logoColor=white)
 
 
 
 <br />
+
+
+
+
+---
+
+
+
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+## :chart_with_upwards_trend: GitHub Stats | By <a href="https://github.com/anuraghazra/github-readme-stats">(anuraghazra)</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&layout=compact&langs_count=8&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
+</a>
+
+<p align="center">
+<img alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
+</p>
+
+
+
+---
 
 
 
@@ -83,23 +109,6 @@
 <!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
 
 
-
-
----
-
-
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-## :chart_with_upwards_trend: GitHub Stats | By <a href="https://github.com/anuraghazra/github-readme-stats">(anuraghazra)</a>
-
-<p align="center">
-  <img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
-  <img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
-</p>
-<p align="center">
-<img alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
-</p>
 
 
 <p align="center">
