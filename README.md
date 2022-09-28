@@ -82,7 +82,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ## :chart_with_upwards_trend: GitHub Stats | By <a href="https://github.com/anuraghazra/github-readme-stats">(anuraghazra)</a>
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="left" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
   </a>
