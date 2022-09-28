@@ -58,7 +58,9 @@
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
-![chocolatey](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
+![yamaha-hs5](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
+![audio-technica](https://img.shields.io/badge/ATH_M50X-000000?style=for-the-badge&logo=Audio-Technica&logoColor=white)
+
 
 :computer:
 ![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
