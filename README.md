@@ -1,6 +1,6 @@
 <!-- https://github.com/kyechan99/capsule-render#how-to-use -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=bababa" />
 </p>
 
 :mortar_board: I am a student at the Norwegian University of Science and Technology. I'm studying Bachelor of Science in informatics.
@@ -18,6 +18,9 @@
 <br />
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?&type=slice&color=0:0877cc,40:eb34e8,100:fe428e&height=80&section=footer&text=That%20was%20about%20me&fontSize=24&fontColor=545454&rotate=4&fontAlignY=-10" />
+</p>
 
 
 ### Languages and Tools:
@@ -93,11 +96,13 @@
 <p align="center">
   <img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
   <img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
+<img align="right" alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
 </p>
 <br />
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=120&section=footer" />
 </p>
 
 
