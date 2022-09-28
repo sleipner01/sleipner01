@@ -82,12 +82,14 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ## :chart_with_upwards_trend: GitHub Stats | By <a href="https://github.com/anuraghazra/github-readme-stats">(anuraghazra)</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&layout=compact&langs_count=8&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+      <img align="center" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&layout=compact&langs_count=8&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
+  </a>
+ </div>
 
 <p align="center">
 <img alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
