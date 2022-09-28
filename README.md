@@ -60,6 +60,10 @@
 ![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
 ![yamaha-hs5](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
 ![audio-technica](https://img.shields.io/badge/ATH_M50X-000000?style=for-the-badge&logo=Audio-Technica&logoColor=white)
+![lg](https://img.shields.io/badge/27GL850_B-A50034?style=for-the-badge&logo=LG&logoColor=white)
+![logitech](https://img.shields.io/badge/MX_Keys-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
+![logitech](https://img.shields.io/badge/MX_Master-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
+
 
 
 :computer:
