@@ -96,9 +96,10 @@
 <p align="center">
   <img align="left" alt="sleipner01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
   <img align="left" alt="sleipner01's GitHub Most languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e" />
-<img align="right" alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
 </p>
-<br />
+<p align="center">
+<img alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
+</p>
 
 
 <p align="center">
