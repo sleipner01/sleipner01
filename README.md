@@ -13,6 +13,8 @@
 
 :hammer_and_wrench: Some people find me quite handy. I like taking care of my stuff. Wether it's the wooden boat, my car, the summer house, but most importantly my setup!
 
+:cocktail: How about taking some fresh fruits, juicing them, add some liquor, shake with ice? Sound lovely? It is! Making cocktails is one of my favorite hobbies. Expensive though... :money_with_wings: Try making a Boston Sour with 2cl of orange juice! :yum:
+
 :airplane: I love travelling the world, experiencing new foods, cultures and meeting people with rich stories to tell.
 
 <br />
