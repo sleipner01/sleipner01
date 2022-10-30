@@ -19,11 +19,11 @@
 
 <br />
 
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&type=slice&color=0:0877cc,40:eb34e8,100:fe428e&height=80&section=footer&text=That%20was%20pretty%20much%20all%20about%20me&fontSize=20&fontColor=545454&rotate=5&fontAlignY=-10" />
 </p>
-
+-->
 
 ### Languages and Tools:
 
