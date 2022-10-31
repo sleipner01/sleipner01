@@ -72,7 +72,7 @@
 <img alt="Next" width="26px" src="media/laptop.svg" />  
 
 ![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
-![macos](https://img.shields.io/badge/Monterey-000000?style=for-the-badge&logo=macOS&logoColor=white)
+![macos](https://img.shields.io/badge/Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
 ![homebrew](https://img.shields.io/badge/WH1000XM4-000000?style=for-the-badge&logo=Sony&logoColor=white)
