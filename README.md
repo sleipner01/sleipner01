@@ -27,7 +27,6 @@
 
 ### Languages and Tools:
 
-
 <img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -56,9 +55,6 @@
 
 ### Workspace Setup
 🖥️
-<div>
-    <img src="computer.svg" width="20" height="20" alt="Computer">
-</div>
 ![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
