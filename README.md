@@ -57,7 +57,7 @@
 ### Workspace Setup
 🖥️
 <div>
-    <img src="media/computer.svg" width="20" height="20" alt="Computer">
+    <img src="computer.svg" width="20" height="20" alt="Computer">
 </div>
 ![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
