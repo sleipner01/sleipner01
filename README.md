@@ -68,8 +68,6 @@
 ![logitech](https://img.shields.io/badge/MX_Master-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
 
 
-<br />
-
 
 <img alt="Next" width="26px" src="media/laptop.svg" />  
 
