@@ -26,8 +26,7 @@
 -->
 
 ### Languages and Tools:
-
-<img align="left" alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="Next" width="26px" src="media/nextdotjs.svg" />  
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -54,7 +53,9 @@
 
 
 ### Workspace Setup
-🖥️
+
+<img alt="Next" width="26px" src="media/computer.svg" />  
+
 ![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -67,8 +68,11 @@
 ![logitech](https://img.shields.io/badge/MX_Master-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
 
 
+<br />
 
-:computer:
+
+<img alt="Next" width="26px" src="media/laptop.svg" />  
+
 ![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![macos](https://img.shields.io/badge/Monterey-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
