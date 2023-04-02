@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=bababa" />
 </p>
 
-:mortar_board: Currently, I'm studying Bachelor of Science in informatics at the Norwegian University of Science and Technology. 
+:mortar_board: Currently, I'm studying for a bachelor's degree in computer science at the Norwegian University of Science and Technology. 
 
 :nerd_face: I started coding in the second year of high school. We started out with HTML, CSS, PHP and MySQL. I quickly got the hang of it and started some smaller projects on my own. The following year we started learning Javascript. However, some friends and I decided to drop the course and take the exam privately. I eventually became the leader for the "in house revue" at the school, which gave me the opportunity to maintain and create the website for the revue. That was the first inished project I got to publish on the world wide web.
 
