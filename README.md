@@ -5,7 +5,7 @@
 
 :mortar_board: Currently, I'm studying for a bachelor's degree in computer science at the Norwegian University of Science and Technology. 
 
-:nerd_face: I started coding in the second year of high school. We started out with HTML, CSS, PHP and MySQL. I quickly got the hang of it and started some smaller projects on my own. The following year we started learning Javascript. However, some friends and I decided to drop the course and take the exam privately. I eventually became the leader for the "in house revue" at the school, which gave me the opportunity to maintain and create the website for the revue. That was the first inished project I got to publish on the world wide web.
+:nerd_face: I started coding in the second year of high school. We started out with HTML, CSS, PHP and MySQL. I quickly got the hang of it and started some smaller projects on my own. The following year we started learning Javascript. However, some friends and I decided to drop the course and take the exam privately. I eventually became the leader for the "in house revue" at the school, which gave me the opportunity to maintain and create the website for the revue. That was the first finished project I got to publish on the world wide web.
 
 :video_game: I have loved video games since I was 6 years old. My first game was Pokémon Fire Red on Nintendo Game Boy. Minecraft became my childhood. I moved on to FPS games like Counter Strike and Battlefield. Believe it or not, now I'm mostly playing Microsoft Flight Simulator... :small_airplane:
 
@@ -108,8 +108,8 @@
 
 
 ### Connect with me:
-
 [![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
+[![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
@@ -125,7 +125,8 @@
 </p>
 
 
-[website]: https://folk.ntnu.no/magnueb/
+[ntnuwebsite]: https://folk.ntnu.no/magnueb/
+[website]: https://sleipner01.github.io/
 [gitlab]: https://gitlab.stud.idi.ntnu.no/magnueb
 [twitter]: https://twitter.com/byrkjiz
 [youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
