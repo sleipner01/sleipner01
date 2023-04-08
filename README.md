@@ -1,7 +1,11 @@
 <!-- https://github.com/kyechan99/capsule-render#how-to-use -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=bababa" />
+  <!-- <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=bababa" /> -->
+    <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=header&animation=fadeIn" />
 </p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Magnus Byrkjeland
+
 
 :mortar_board: Currently, I'm studying for a bachelor's degree in computer science at the Norwegian University of Science and Technology. 
 
@@ -26,12 +30,12 @@
 -->
 
 ### Languages and Tools:
-<img align="left" alt="Next" width="26px" src="media/nextdotjs.svg" />  
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Next" width="26px" src="media/nextdotjs.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -40,7 +44,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<!-- <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> -->
+<!--<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-->
+<!--<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
 
 
@@ -121,8 +126,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=footer" />
 </p>
+
 
 
 [ntnuwebsite]: https://folk.ntnu.no/magnueb/
