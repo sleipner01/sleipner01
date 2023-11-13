@@ -4,6 +4,7 @@
     <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=header&animation=fadeIn" />
 </p>
 
+<!--
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Magnus Byrkjeland
 
 
@@ -22,6 +23,7 @@
 :airplane: I love travelling the world, experiencing new foods, cultures and meeting people with rich stories to tell.
 
 <br />
+-->
 
 <!--
 <p align="center">
@@ -116,10 +118,10 @@
 [![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
 [![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 [![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)][gitlab]
 
+<!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter] -->
+<!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram] -->
 <!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
 
 
@@ -136,7 +138,7 @@
 [gitlab]: https://gitlab.stud.idi.ntnu.no/magnueb
 [twitter]: https://twitter.com/byrkjiz
 [youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
-[instagram]: https://instagram.com/byrkjiz
+<!-- [instagram]: https://instagram.com/byrkjiz -->
 [linkedin]: https://www.linkedin.com/in/magnusbyrkjeland/
 
 <!-- Icons for badges: https://simpleicons.org -->
