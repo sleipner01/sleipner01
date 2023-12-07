@@ -1,10 +1,42 @@
+<!-- Icons for badges: https://simpleicons.org -->
+<!-- Programming icons: https://devicon.dev --> 
+
+[ntnuwebsite]: https://folk.ntnu.no/magnueb/
+[website]: https://sleipner01.github.io/
+[gitlab]: https://gitlab.stud.idi.ntnu.no/magnueb
+[twitter]: https://twitter.com/byrkjiz
+[youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
+<!-- [instagram]: https://instagram.com/byrkjiz -->
+[linkedin]: https://www.linkedin.com/in/magnusbyrkjeland/
+
+
 <!-- https://github.com/kyechan99/capsule-render#how-to-use -->
 <p align="center">
-  <!-- <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=160&section=header&text=I'm%20Magnus%20Byrkjeland&animation=fadeIn&fontSize=50&fontAlignY=36&fontColor=bababa" /> -->
-    <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=header&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Magnus%20Byrkjeland&fontSize=80&color=0:0877cc,40:eb34e8,100:fe428e&stroke=b678c4" />
+    <!--<img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=header" /> -->
 </p>
 
+
+
+<span style="color:#520099;">I suggest you get back onto the default Github dark mode...</span>
+
+
+
+### Connect with me:
+[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
+[![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
+[![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)][gitlab]
+
+<!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter] -->
+<!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram] -->
+<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
+
+
+
 <!--
+Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Magnus Byrkjeland
 
 
@@ -44,13 +76,11 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="./media/github.svg" />
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <!--<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-->
 <!--<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
-
-
 
 
 <br />
@@ -110,36 +140,6 @@
 
 
 
----
-
-
-
-### Connect with me:
-[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
-[![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite]
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
-[![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)][gitlab]
-
-<!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter] -->
-<!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram] -->
-<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=footer" />
 </p>
-
-
-
-[ntnuwebsite]: https://folk.ntnu.no/magnueb/
-[website]: https://sleipner01.github.io/
-[gitlab]: https://gitlab.stud.idi.ntnu.no/magnueb
-[twitter]: https://twitter.com/byrkjiz
-[youtube]: https://youtube.com/channel/UC43Wfzf3sPeFsYSUbYGlO_w
-<!-- [instagram]: https://instagram.com/byrkjiz -->
-[linkedin]: https://www.linkedin.com/in/magnusbyrkjeland/
-
-<!-- Icons for badges: https://simpleicons.org -->
-<!-- Programming icons: https://devicon.dev --> 
