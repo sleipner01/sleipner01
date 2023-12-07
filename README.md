@@ -22,7 +22,7 @@
 
 
 
-### Connect with me:
+### Connect with me
 [![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
 [![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
@@ -63,7 +63,7 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 </p>
 -->
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="Next" width="26px" src="media/nextdotjs.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
