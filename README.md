@@ -91,7 +91,7 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 
 ### Workspace Setup
 
-<img alt="Next" width="26px" src="media/computer.svg" />  
+<img alt="Desktop" width="26px" src="media/computer.svg" />  
 
 ![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -106,10 +106,10 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 
 
 
-<img alt="Next" width="26px" src="media/laptop.svg" />  
+<img alt="Laptop" width="26px" src="media/laptop.svg" />  
 
 ![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
-![macos](https://img.shields.io/badge/Ventura-000000?style=for-the-badge&logo=macOS&logoColor=white)
+![macos](https://img.shields.io/badge/Sonoma-000000?style=for-the-badge&logo=macOS&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
 ![homebrew](https://img.shields.io/badge/WH1000XM4-000000?style=for-the-badge&logo=Sony&logoColor=white)
