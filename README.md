@@ -22,12 +22,12 @@
 
 
 
-### Connect with me
+### Check this out
 [![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
-[![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
 [![gitlab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)][gitlab]
 
+<!-- [![NTNU website](https://img.shields.io/badge/NTNU-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][ntnuwebsite] -->
 <!-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter] -->
 <!-- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram] -->
 <!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
@@ -63,25 +63,25 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 </p>
 -->
 
-### Languages and Tools
-<img align="left" alt="Next" width="26px" src="media/nextdotjs.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="./media/github.svg" />
-<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+### Languages and Tools I have touched
+<img align="left" alt="Next" width="30px" src="media/nextdotjs.svg" />
+<img align="left" alt="Vite" width="30px" src="./media/vite.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" src="./media/github.svg" />
+<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <!--<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-->
 <!--<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
-
 
 <br />
 <br />
@@ -96,13 +96,16 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 ![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
-![yamaha-hs5](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
-![audio-technica](https://img.shields.io/badge/ATH_M50X-000000?style=for-the-badge&logo=Audio-Technica&logoColor=white)
+
 ![lg](https://img.shields.io/badge/27GL850_B-A50034?style=for-the-badge&logo=LG&logoColor=white)
 ![logitech](https://img.shields.io/badge/MX_Keys-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
 ![logitech](https://img.shields.io/badge/MX_Master-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
+![audio-technica](https://img.shields.io/badge/ATH_M50X-000000?style=for-the-badge&logo=Audio-Technica&logoColor=white)
+![yamaha-hs5](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
+
+![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=Github&logoColor=white)
+![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
 
 
 
@@ -110,9 +113,12 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 
 ![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![macos](https://img.shields.io/badge/Sonoma-000000?style=for-the-badge&logo=macOS&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
+
 ![homebrew](https://img.shields.io/badge/WH1000XM4-000000?style=for-the-badge&logo=Sony&logoColor=white)
+
+![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=Github&logoColor=white)
+![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
 
 
 
