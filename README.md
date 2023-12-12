@@ -64,8 +64,8 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 -->
 
 ### Languages and Tools I have touched
-<img align="left" alt="Next" width="30px" src="media/nextdotjs.svg" />
-<img align="left" alt="Vite" width="30px" src="./media/vite.svg" />
+<img align="left" alt="Next" width="30px" src="./media/nextdotjs.svg" />
+<img align="left" alt="Vite" width="30px" src="./media/vite.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -75,13 +75,22 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="./media/github.svg" />
-<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+
+<img align="right" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="right" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="right" alt="GitHub" width="30px" src="./media/github.svg" />
+<img align="right" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <!--<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-->
 <!--<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
+
+<br />
+<br />
+<!-- Need the p-tag to get the images aligned... -->
+<p></p>
+<img align="left" alt="GitHub" width="30px" src="./media/adobeindesign.svg" />
+<img align="left" alt="GitHub" width="30px" src="./media/adobephotoshop.svg" />
+<img align="left" alt="GitHub" width="30px" src="./media/adobeillustrator.svg" />
 
 <br />
 <br />
