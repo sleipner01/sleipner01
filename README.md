@@ -143,15 +143,11 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-## :chart_with_upwards_trend: GitHub Stats | By <a href="https://github.com/anuraghazra/github-readme-stats">(anuraghazra)</a>
+## :chart_with_upwards_trend: GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats-sleipner01.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-      <img align="left" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&hide=makefile,less,css,html,tsql" />
-  </a>
+  <img align="left" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats-sleipner01.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+  <img align="left" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&hide=makefile,less,css,html,Jupyter%20Notebook" />
  </div>
 
 <p align="center">
