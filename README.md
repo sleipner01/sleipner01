@@ -147,7 +147,7 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 
 <div align="center">
   <img align="left" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats-sleipner01.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
-  <img align="left" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&hide=makefile,less,css,html,Jupyter%20Notebook" />
+  <img align="left" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&hide=makefile,less,css,html,Jupyter%20Notebook,scss" />
  </div>
 
 <p align="center">
