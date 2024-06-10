@@ -97,8 +97,7 @@ Haha, if you really want to read a long text, here it is!⬇️⬇️⬇️
 <img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="HomeBrew" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homebrew/homebrew-original.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="Vercel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="30px" src="./media/vercel.svg" />
+<img align="left" alt="Vercel" width="30px" src="./media/vercel.svg" />
 
 
 
