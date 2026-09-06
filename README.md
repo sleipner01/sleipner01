@@ -1,137 +1,77 @@
-<!-- Icons for badges: https://simpleicons.org -->
-<!-- Programming icons: https://devicon.dev --> 
-
-[website]: https://magnusbyrkjeland.no/
-[linkedin]: https://www.linkedin.com/in/magnusbyrkjeland/
-
+<!-- Badge icons: https://simpleicons.org -->
 
 <!-- https://github.com/kyechan99/capsule-render#how-to-use -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Magnus%20Byrkjeland&fontSize=80&color=0:0877cc,40:eb34e8,100:fe428e&stroke=b678c4" />
-    <!--<img src="https://capsule-render.vercel.app/api?&type=waving&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=header" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Magnus%20Byrkjeland&fontSize=80&color=0:0877cc,40:eb34e8,100:fe428e&stroke=b678c4" alt="Magnus Byrkjeland" />
 </p>
 
+<p align="center">
+  <a href="https://magnusbyrkjeland.no/"><img alt="Website" src="https://img.shields.io/badge/Website-4B4B4B?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/magnusbyrkjeland/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+</p>
 
+## 🛠️ Languages and Tools
 
-For your own safety, get onto the default Github dark mode...🚨
+**Web**
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-0B0B0B?style=for-the-badge&logo=sanity&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-FF1F8E?style=for-the-badge&logo=bun&logoColor=white)
 
-<br />
+**Data & backend**
 
-### 🌐 Check this out
-[![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)][website]
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
-<!-- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-2D3748?style=for-the-badge&logo=drizzle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br />
+**Tooling**
 
-### 👀 Languages and Tools I seen before
-<img align="left" alt="Next" width="30px" src="./media/nextdotjs.svg" />
-<img align="left" alt="Vite" width="30px" src="./media/vite.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Prisma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
-<img align="left" alt="PostgresSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="GraphQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<br />
-<br />
-<!-- Need the p-tag to get the images aligned... -->
-<p></p>
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge)
 
-<br />
-<br />
-<!-- Need the p-tag to get the images aligned... -->
-<p></p>
+## 💻 Workspace Setup
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="./media/github.svg" />
-<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="HomeBrew" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homebrew/homebrew-original.svg" />
-<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-<img align="left" alt="Vercel" width="30px" src="./media/vercel.svg" />
-<img align="left" alt="Webflow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" />
+![Apple M5 Max](https://img.shields.io/badge/Apple_M5_Max-1C1C1C?style=for-the-badge&logo=Apple&logoColor=white)
+![macOS Tahoe](https://img.shields.io/badge/Tahoe-1C1C1C?style=for-the-badge&logo=macOS&logoColor=white)
 
+![WH-1000XM6](https://img.shields.io/badge/WH--1000XM6-1C1C1C?style=for-the-badge&logo=Sony&logoColor=white)
 
-
-<!--<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-->
-<!--<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
-<!-- <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
-
-<br />
-<br />
-<!-- Need the p-tag to get the images aligned... -->
-<p></p>
-<img align="left" alt="Adobe InDesign" width="30px" src="./media/adobeindesign.svg" />
-<img align="left" alt="Adobe Photoshop" width="30px" src="./media/adobephotoshop.svg" />
-<img align="left" alt="Adobe Illustrator" width="30px" src="./media/adobeillustrator.svg" />
-
-<br />
-<br />
-
-<br />
-
-### Workspace Setup
-
-<img alt="Desktop" width="26px" src="media/computer.svg" />  
-
-![i7-12th-gen](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![rtx-3080](https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![lg](https://img.shields.io/badge/27GL850_B-A50034?style=for-the-badge&logo=LG&logoColor=white)
-![logitech](https://img.shields.io/badge/MX_Keys-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
-![logitech](https://img.shields.io/badge/MX_Master-00B8FC?style=for-the-badge&logo=Logitech&logoColor=white)
-![audio-technica](https://img.shields.io/badge/ATH_M50X-000000?style=for-the-badge&logo=Audio-Technica&logoColor=white)
-![yamaha-hs5](https://img.shields.io/badge/HS_5-4B1E78?style=for-the-badge&logo=YamahaCorporation&logoColor=white)
-
-![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=Github&logoColor=white)
-![chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=Chocolatey&logoColor=white)
-
-
-
-<img alt="Laptop" width="26px" src="media/laptop.svg" />  
-
-![apple-m2](https://img.shields.io/badge/Apple_M2-000000?style=for-the-badge&logo=Apple&logoColor=white)
-![macos](https://img.shields.io/badge/Sonoma-000000?style=for-the-badge&logo=macOS&logoColor=white)
-
-![homebrew](https://img.shields.io/badge/WH1000XM4-000000?style=for-the-badge&logo=Sony&logoColor=white)
-
-![vs-code](https://img.shields.io/badge/VS_Code-68217a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-181717?style=for-the-badge&logo=Github&logoColor=white)
-![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=white)
-
-
-
-<br />
-
+![Cursor](https://img.shields.io/badge/Cursor-68217a?style=for-the-badge&logo=Cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=Homebrew&logoColor=black)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-## :chart_with_upwards_trend: GitHub Stats
 
-<div align="center">
-  <img align="left" alt="Magnus Byrkjeland's GitHub Stats" src="https://github-readme-stats-sleipner01.vercel.app/api?username=sleipner01&repo=github-readme-stats&count_private=true&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
-  <img align="left" alt="Magnus Byrkjeland's GitHub Most languages" src="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&repo=convoychat&show_icons=true&hide_border=true&theme=github_dark&title_color=fe428e&hide=makefile,less,css,html,Jupyter%20Notebook,scss" />
- </div>
+## 📈 GitHub Stats
 
 <p align="center">
-<img alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sleipner01.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark&title_color=fe428e&icon_color=fe428e" />
+    <img alt="Magnus Byrkjeland's GitHub stats" height="165" src="https://github-readme-stats-sleipner01.vercel.app/api?username=sleipner01&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&theme=default&title_color=fe428e&icon_color=fe428e" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark&title_color=fe428e&hide=makefile%2Cless%2Ccss%2Chtml%2CJupyter%20Notebook%2Cscss" />
+    <img alt="Magnus Byrkjeland's most used languages" height="165" src="https://github-readme-stats-sleipner01.vercel.app/api/top-langs/?username=sleipner01&show_icons=true&hide_border=true&bg_color=00000000&theme=default&title_color=fe428e&hide=makefile%2Cless%2Ccss%2Chtml%2CJupyter%20Notebook%2Cscss" />
+  </picture>
 </p>
 
-
+<p align="center">
+  <img alt="Barney thumbs up" width="500px" src="https://media.giphy.com/media/3WY8qMF9l3ldK/giphy.gif" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?&type=waving&reversal=true&color=0:0877cc,40:eb34e8,100:fe428e&height=100&section=footer" alt="" />
 </p>
